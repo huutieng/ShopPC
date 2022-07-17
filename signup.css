@@ -1,0 +1,26 @@
+.main-div{
+    padding-left: 45%;
+    
+}
+.h3{
+    padding: 70px;
+    padding-left: 110px;
+}
+.main-div input{
+    display: block;
+    padding: 10px;
+    width: 30%;
+    border: none;
+    border-bottom: 2px solid rgb(0, 195, 255);
+}
+.aa{
+    margin-top: 50px;
+}
+#btnn{
+    margin-left: 125px;
+    margin-bottom: 22px;
+    display: block;
+}
+.back{
+    padding-top: 60px;
+  }
